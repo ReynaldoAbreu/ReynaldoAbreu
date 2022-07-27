@@ -18,4 +18,12 @@
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     
-</div>
+</div><br/>
+
+Apaixonado por tecnologia, inovação, amante de novos conhecimentos e claro, esporte no DNA.
+
+###Hobbies
+<div style="display: inline_block"><br/>
+     <img align="center" alt="Games" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+     <img align="center" alt="Code" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+     <img align="center" alt="PHP" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
