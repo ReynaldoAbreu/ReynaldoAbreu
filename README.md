@@ -4,9 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reynaldo__abreu/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979098858)
 
-![Reynaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=ReynaldoAbreu&show_icons=true&theme=dracula)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReynaldoAbreu&show_icons=true&theme=dracula)
 ## Tecnologias que uso no dia a dia
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReynaldoAbreu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -27,3 +28,5 @@ Apaixonado por tecnologia, inovação, amante de novos conhecimentos e claro, es
      <img align="center" alt="Games" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
      <img align="center" alt="Code" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
      <img align="center" alt="PHP" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
+    
+</div><br/>
